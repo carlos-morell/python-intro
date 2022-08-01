@@ -6,3 +6,6 @@ Pensada para quienes ya conocen un lenguaje de programación y quieren introduci
 
 1. Descripción general
 
+## Descripción de general
+
+Python es un lenguaje de programación de propósito general. 
