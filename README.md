@@ -8,4 +8,4 @@ Pensada para quienes ya conocen un lenguaje de programación y quieren introduci
 
 ## Descripción de general
 
-Python es un lenguaje de programación de propósito general que ha tomado auge recientemente.
+Python es un lenguaje de programación de propósito general que ha tomado auge recientemente. Está siendo utilizado tanto por desarrolladores web como por científicos de los datos lo que denota su gran versatilidad.
